@@ -1,0 +1,13 @@
+Log started: 16/11/2015  3:11:54 PM
+
+16/11/2015  3:11:54 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54394) -  -> EXECUTE :  A;CppUser;CppUser;CppAgent
+---------------------------------------------
+
+16/11/2015  3:11:54 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54394) -  -> sending :  AOK
+---------------------------------------------
+
+16/11/2015  3:11:54 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54394) - CppUser -> EXECUTE :  JOIN
+---------------------------------------------
+
+16/11/2015  3:11:57 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54394) - CppUser -> EXECUTE :  
+---------------------------------------------

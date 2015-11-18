@@ -1,0 +1,143 @@
+<map name="europe">
+	<nodes>
+		<node name="edinburgh" x="x" y="y" />
+		<node name="london" x="x" y="y" />
+		<node name="dieppe" x="x" y="y" />
+		<node name="brest" x="x" y="y" />
+		<node name="pamplona" x="x" y="y" />
+		<node name="madrid" x="x" y="y" />
+		<node name="lisboa" x="x" y="y" />
+		<node name="cadiz" x="x" y="y" />
+		<node name="amsterdam" x="x" y="y" />
+		<node name="bruxelles" x="x" y="y" />
+		<node name="paris" x="x" y="y" />
+		<node name="barcelona" x="x" y="y" />
+		<node name="essen" x="x" y="y" />
+		<node name="frankfurt" x="x" y="y" />
+		<node name="munchen" x="x" y="y" />
+		<node name="zurich" x="x" y="y" />
+		<node name="marseille" x="x" y="y" />
+		<node name="kobenhavn" x="x" y="y" />
+		<node name="berlin" x="x" y="y" />
+		<node name="wien" x="x" y="y" />
+		<node name="zagrab" x="x" y="y" />
+		<node name="venezia" x="x" y="y" />
+		<node name="roma" x="x" y="y" />
+		<node name="brindisi" x="x" y="y" />
+		<node name="palermo" x="x" y="y" />
+		<node name="stockholm" x="x" y="y" />
+		<node name="danzig" x="x" y="y" />
+		<node name="warszawa" x="x" y="y" />
+		<node name="budapest" x="x" y="y" />
+		<node name="sarajevo" x="x" y="y" />
+		<node name="sofia" x="x" y="y" />
+		<node name="athina" x="x" y="y" />
+		<node name="riga" x="x" y="y" />
+		<node name="wilno" x="x" y="y" />
+		<node name="kyiv" x="x" y="y" />
+		<node name="bucuresti" x="x" y="y" />
+		<node name="constantinople" x="x" y="y" />
+		<node name="smyrna" x="x" y="y" />
+		<node name="petrograd" x="x" y="y" />
+		<node name="smolensk" x="x" y="y" />
+		<node name="sevastopol" x="x" y="y" />
+		<node name="angora" x="x" y="y" />
+		<node name="moskva" x="x" y="y" />
+		<node name="kharkov" x="x" y="y" />
+		<node name="rostov" x="x" y="y" />
+		<node name="sochi" x="x" y="y" />
+		<node name="erzurum" x="x" y="y" />	
+	</nodes>
+	<edges>
+		<edge node1="edinburgh" node2="london" value="7" color1="n" color2="o" eng="0" cars="4" tunnel="0"/>
+		<edge node1="london" node2="dieppe" value="2" color1="*" color2="*" eng="1" cars="1" tunnel="0"/>
+		<edge node1="london" node2="amsterdam" value="2" color1="*" color2="0" eng="2" cars="0" tunnel="0"/>
+		<edge node1="dieppe" node2="brest" value="2" color1="o" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="brest" node2="paris" value="4" color1="n" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="brest" node2="pamplona" value="7" color1="p" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="pamplona" node2="madrid" value="4" color1="n" color2="w" eng="0" cars="3" tunnel="1"/>
+		<edge node1="madrid" node2="lisboa" value="4" color1="p" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="lisboa" node2="cadiz" value="2" color1="b" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="madrid" node2="cadiz" value="4" color1="o" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="madrid" node2="barcelona" value="2" color1="y" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="amsterdam" node2="bruxelles" value="1" color1="n" color2="0" eng="0" cars="1" tunnel="0"/>
+		<edge node1="bruxelles" node2="dieppe" value="2" color1="g" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="dieppe" node2="paris" value="1" color1="p" color2="0" eng="0" cars="1" tunnel="0"/>
+		<edge node1="bruxelles" node2="paris" value="2" color1="y" color2="r" eng="0" cars="2" tunnel="0"/>
+		<edge node1="paris" node2="pamplona" value="7" color1="b" color2="g" eng="0" cars="4" tunnel="0"/>
+		<edge node1="paris" node2="zurich" value="4" color1="*" color2="0" eng="0" cars="3" tunnel="1"/>
+		<edge node1="paris" node2="marseille" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="pamplona" node2="marseille" value="7" color1="r" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="pamplona" node2="barcelona" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="barcelona" node2="marseille" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="essen" node2="amsterdam" value="4" color1="y" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="essen" node2="frankfurt" value="2" color1="g" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="amsterdam" node2="frankfurt" value="2" color1="w" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="bruxelles" node2="frankfurt" value="2" color1="b" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="frankfurt" node2="paris" value="4" color1="w" color2="o" eng="0" cars="3" tunnel="0"/>
+		<edge node1="frankfurt" node2="munchen" value="2" color1="p" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="munchen" node2="zurich" value="2" color1="y" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="zurich" node2="marseille" value="2" color1="p" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="zurich" node2="venezia" value="2" color1="g" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="marseille" node2="roma" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="1"/>
+		<edge node1="kobenhavn" node2="essen" value="4" color1="*" color2="*" eng="1" cars="2" tunnel="0"/>
+		<edge node1="essen" node2="berlin" value="2" color1="b" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="berlin" node2="frankfurt" value="4" color1="n" color2="r" eng="0" cars="3" tunnel="0"/>
+		<edge node1="munchen" node2="venezia" value="2" color1="b" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="venezia" node2="roma" value="2" color1="n" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="roma" node2="palermo" value="7" color1="*" color2="0" eng="1" cars="3" tunnel="0"/>
+		<edge node1="roma" node2="brindisi" value="2" color1="w" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="brindisi" node2="palermo" value="4" color1="*" color2="0" eng="1" cars="2" tunnel="0"/>
+		<edge node1="stockholm" node2="kobenhavn" value="4" color1="y" color2="w" eng="0" cars="3" tunnel="0"/>
+		<edge node1="danzig" node2="berlin" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="berlin" node2="wien" value="4" color1="g" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="wien" node2="munchen" value="4" color1="o" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="wien" node2="zagrab" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="venezia" node2="zagrab" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="zagrab" node2="sarajevo" value="4" color1="r" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="riga" node2="danzig" value="4" color1="n" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="riga" node2="wilno" value="7" color1="g" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="wilno" node2="warszawa" value="4" color1="r" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="danzig" node2="warszawa" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="warszawa" node2="berlin" value="7" color1="p" color2="y" eng="0" cars="4" tunnel="0"/>
+		<edge node1="warszawa" node2="wien" value="7" color1="b" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="wien" node2="budapest" value="1" color1="r" color2="w" eng="0" cars="1" tunnel="0"/>
+		<edge node1="budapest" node2="zagrab" value="2" color1="o" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="budapest" node2="sarajevo" value="4" color1="p" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="sarajevo" node2="athina" value="7" color1="g" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="brindisi" node2="athina" value="7" color1="*" color2="0" eng="1" cars="3" tunnel="0"/>
+		<edge node1="stockholm" node2="petrograd" value="21" color1="*" color2="0" eng="0" cars="8" tunnel="1"/>
+		<edge node1="petrograd" node2="riga" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="petrograd" node2="wilno" value="7" color1="b" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="wilno" node2="smolensk" value="4" color1="y" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="wilno" node2="kyiv" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="kyiv" node2="warszawa" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="kyiv" node2="budapest" value="15" color1="*" color2="0" eng="0" cars="6" tunnel="1"/>
+		<edge node1="kyiv" node2="bucuresti" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="budapest" node2="bucuresti" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="1"/>
+		<edge node1="bucuresti" node2="sofia" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="bucuresti" node2="constantinople" value="4" color1="y" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="sofia" node2="sarajevo" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="sofia" node2="athina" value="4" color1="p" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="sofia" node2="constantinople" value="4" color1="b" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="athina" node2="smyrna" value="2" color1="*" color2="0" eng="1" cars="1" tunnel="0"/>
+		<edge node1="smyrna" node2="palermo" value="15" color1="*" color2="0" eng="2" cars="4" tunnel="0"/>
+		<edge node1="petrograd" node2="moskva" value="7" color1="w" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="moskva" node2="smolensk" value="2" color1="o" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="smolensk" node2="kyiv" value="4" color1="r" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="moskva" node2="kharkov" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="kharkov" node2="kyiv" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="kharkov" node2="rostov" value="2" color1="g" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="rostov" node2="sevastopol" value="7" color1="*" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="sevastopol" node2="bucuresti" value="7" color1="w" color2="0" eng="0" cars="4" tunnel="0"/>
+		<edge node1="sevastopol" node2="constantinople" value="7" color1="*" color2="0" eng="2" cars="2" tunnel="0"/>
+		<edge node1="constantinople" node2="smyrna" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="constantinople" node2="angora" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="1"/>
+		<edge node1="angora" node2="smyrna" value="4" color1="o" color2="0" eng="0" cars="3" tunnel="1"/>
+		<edge node1="sevastopol" node2="sochi" value="2" color1="*" color2="0" eng="1" cars="1" tunnel="0"/>
+		<edge node1="sevastopol" node2="erzurum" value="7" color1="*" color2="0" eng="2" cars="2" tunnel="0"/>
+		<edge node1="rostov" node2="sochi" value="2" color1="*" color2="0" eng="0" cars="2" tunnel="0"/>
+		<edge node1="erzurum" node2="angora" value="4" color1="n" color2="0" eng="0" cars="3" tunnel="0"/>
+		<edge node1="sochi" node2="erzurum" value="4" color1="r" color2="0" eng="0" cars="3" tunnel="1"/>		
+	</edges>
+</map>

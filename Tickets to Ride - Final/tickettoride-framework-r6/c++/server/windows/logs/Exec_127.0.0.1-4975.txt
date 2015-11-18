@@ -1,0 +1,13 @@
+Log started: 2/16/2011  9:22:31 PM
+
+2/16/2011  9:22:31 PM: @ Com Server -> localhost (127.0.0.1:4975) -  -> EXECUTE :  A;JavaUser;JavaUser;RandomJavaAgent
+---------------------------------------------
+
+2/16/2011  9:22:31 PM: @ Com Server -> localhost (127.0.0.1:4975) -  -> sending :  AOK
+---------------------------------------------
+
+2/16/2011  9:22:31 PM: @ Com Server -> localhost (127.0.0.1:4975) - JavaUser -> EXECUTE :  JOIN
+---------------------------------------------
+
+2/16/2011  9:22:40 PM: @ Com Server -> localhost (127.0.0.1:4975) - JavaUser -> EXECUTE :  
+---------------------------------------------

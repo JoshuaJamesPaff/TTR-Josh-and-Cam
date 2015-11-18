@@ -1,0 +1,1513 @@
+Log started: 19-Oct-15  11:52:33 AM
+
+19-Oct-15  11:52:33 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) -  -> EXECUTE :  A;JavaUser;JavaUser;RandomJavaAgent
+---------------------------------------------
+
+19-Oct-15  11:52:33 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) -  -> sending :  AOK
+---------------------------------------------
+
+19-Oct-15  11:52:33 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  JOIN
+---------------------------------------------
+
+19-Oct-15  11:52:50 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GMeurope.xml
+---------------------------------------------
+
+19-Oct-15  11:52:50 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GI001START
+---------------------------------------------
+
+19-Oct-15  11:52:50 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  READY
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GP22
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Db
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Syyper
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2M062620
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2M011807444605101908
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT22000
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CE062620101908
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  E12
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  E22
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T2120000
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT112000
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Syyere
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Op
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111989
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT212000
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrwbb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrwbw
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211997
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111989
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrbwo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrbob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111985
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211997
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrobb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrobp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211993
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111985
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrobw
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Op
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrobp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111973
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211993
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snropn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrong
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Op
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211989
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111973
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snrngg
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snnggw
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111960
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211989
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snggwg
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sggwge
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211986
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111960
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sgggee
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111957
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211986
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2De
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211982
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111957
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sggeer
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111945
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211982
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211979
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111945
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sggeer
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sggeeg
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111940
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211979
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dr
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Do
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211975
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111940
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sgeegr
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sgeegb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111925
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211975
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sgeegw
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Do
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211971
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111925
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sgeego
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111914
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211971
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegoo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegor
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211967
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111914
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegoy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Ow
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111910
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211967
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegon
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seegoo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211963
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111910
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seeoon
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seeono
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111907
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211963
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seeoon
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seeooy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211960
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111907
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seoyne
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seyney
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111894
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211960
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seyeyr
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seeyrn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211956
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111894
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sernyo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Senyop
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111890
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211956
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seyopy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seopyn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211953
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111890
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sepynb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seynbr
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Op
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111878
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211953
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2538n0800
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2T2538n0800
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2D0ygp
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C2538n0800
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211952
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111878
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seynbg
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seynbe
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111866
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211952
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2834b0600
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2T2834b0600
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2D1bww
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2834b0700
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C2834b0700
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211950
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111866
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Senbeb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oy
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111856
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211950
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOe
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Snbebb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oe
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211949
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111856
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111844
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211949
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2437y0402
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C2437y0402
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211948
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111844
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111831
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211948
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbebbb
+---------------------------------------------
+
+19-Oct-15  11:52:53 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2De
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211945
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111831
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111827
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211945
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dr
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dg
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211942
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111827
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oe
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111823
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211942
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbp
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOp
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbg
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Op
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211931
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111823
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C4243r0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111820
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211931
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243p0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334p0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C4334p0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211929
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111820
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3332g0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111816
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211929
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOg
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbw
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Og
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dp
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211919
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111816
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3842w0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111815
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211919
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dw
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOw
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ow
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211906
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111815
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3832o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111812
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211906
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbb0
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dy
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211895
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111812
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3427p0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111808
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211895
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3832o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3427o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC0001o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C0001o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211888
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111808
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C0416r0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111803
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211888
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Do
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Oo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211876
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111803
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C1004g0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111797
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211876
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbw
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOw
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbg
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ow
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211866
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111797
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3540w0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111790
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211866
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3832n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3427n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4044n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C4044n0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211861
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111790
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbp
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbb
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Op
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111779
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211861
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2De
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211858
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111779
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111776
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211858
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Db
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbbe
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211855
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111776
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111773
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211855
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbbey
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbeyo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211852
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111773
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbeyn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbenr
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oy
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111763
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211852
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243b0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334b0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3833b0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C3833b0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211849
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111763
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C3435o0400
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111754
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211849
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOr
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbbene
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Or
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOn
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sybeyb
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2On
+---------------------------------------------
+
+19-Oct-15  11:52:54 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211838
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111754
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbeybe
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oy
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sbebeb
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oy
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111751
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211838
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Dn
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDD
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Db
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211835
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111751
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C2718y0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111745
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211835
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sebebw
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOw
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sebebo
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ow
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211832
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111745
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sebebb
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Oo
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111732
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211832
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3842w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3832w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3427w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3540w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4044w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3435w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2618w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C2618w0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211823
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111732
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1D
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111720
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211823
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seebbr
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CDOb
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Seebry
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D2Ob
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211820
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111720
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C1C0403p0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GIL
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111714
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT211820
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4243b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC4334b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3833b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3832b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC3427b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  WC
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  CC2719b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  C2C2719b0400
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T211814
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GT111714
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Sweneg
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Or
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  Spyrwn
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  D1Og
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  T111703
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> sending :  GIE
+---------------------------------------------
+
+19-Oct-15  11:52:55 AM: @ Com Server -> Elvis-PC (127.0.0.1:52111) - JavaUser -> EXECUTE :  
+---------------------------------------------

@@ -1,0 +1,106 @@
+Log started: 16/11/2015  3:16:16 PM
+
+16/11/2015  3:16:16 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) -  -> EXECUTE :  A;CppUser;CppUser;CppAgent
+---------------------------------------------
+
+16/11/2015  3:16:16 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) -  -> sending :  AOK
+---------------------------------------------
+
+16/11/2015  3:16:16 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> EXECUTE :  JOIN
+---------------------------------------------
+
+16/11/2015  3:16:21 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GMeurope.xml
+---------------------------------------------
+
+16/11/2015  3:16:21 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GI001START
+---------------------------------------------
+
+16/11/2015  3:16:21 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> EXECUTE :  READY
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GP22
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2Db
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2Dr
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2De
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2Dn
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  Synryb
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2M033820
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  D2M184212444605161208
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GT22000
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> EXECUTE :  CE184212
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  E11
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  E21
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  T2120000
+---------------------------------------------
+
+16/11/2015  3:16:25 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GT13000
+---------------------------------------------
+
+16/11/2015  3:16:31 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  T10
+---------------------------------------------
+
+16/11/2015  3:16:31 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GT23000
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  T20
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GIE
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS1M-34
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS1E0
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS1S12
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS1P0
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS1T-22
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS2M-33
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS2E0
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS2S12
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS2P0
+---------------------------------------------
+
+16/11/2015  3:16:37 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> sending :  GS2T-21
+---------------------------------------------
+
+16/11/2015  3:19:27 PM: @ Com Server -> DESKTOP-3SDNJAO (127.0.0.1:54406) - CppUser -> EXECUTE :  
+---------------------------------------------
